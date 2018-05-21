@@ -1,0 +1,52 @@
+div{
+    float:left;
+}
+
+#images{
+    float:left;
+}
+
+#images2{
+    float:left;
+}
+
+img{
+     float:left;
+}
+
+.par{
+    color:red;
+}
+
+.square{
+ list-style-type: square;
+}
+
+
+ul {
+   
+    margin: 0;
+    padding: 0;
+     
+}
+
+
+.mens{
+    display: inline;
+}
+
+#navss{
+     height: 20px;
+     width: 100%;
+     background-color:black;
+}
+
+.bullets{
+    list-style-type:circle;
+    margin: 0;
+    padding: 0;
+     
+}
+a{
+    color:white;
+}
